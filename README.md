@@ -4,7 +4,7 @@ This project is an example of the Web Application. This Project contains the lis
 
 # Technology used:
 
-MongoDB - for storing the data
-Cloudinary - for storing the images
-Mapbox - for locate the campgrounds
+# MongoDB - for storing the data
+# Cloudinary - for storing the images
+# Mapbox - for locate the campgrounds
 
